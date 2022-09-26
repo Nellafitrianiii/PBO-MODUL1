@@ -1,4 +1,6 @@
-# Menyusun Algoritma Memasak Roti
+# Menyusun Algoritma
+
+#Menyusun Algoritma Memasak Roti
 Mulai 
 
 Proses :
@@ -18,4 +20,18 @@ Proses :
 3. Setelah digunakan mahasiswa merapikan kembali  fasilitas laboratorium 
 4. jika mahasiswa melanggar aturan mahasiswa diberi sanksi 
 5. Selesai 
+
+# Algoritma menghitung rata rata 
+input data a,b,c
+proses :
+jum = 0
+i=1
+i<=n
+rata= jum/a+b+c
+
+output rata rata 
+
+selesai
+
+#Konversi Bilangan 
 
